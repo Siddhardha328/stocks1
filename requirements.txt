@@ -1,5 +1,5 @@
 Flask==2.2.3
-stripe==2.79.0
+stripe==26.7.0
 yfinance==0.2.26
 pandas==2.0.3
 plotly==5.15.0
